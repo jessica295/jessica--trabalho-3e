@@ -1,0 +1,15 @@
+body{
+    background:linear-gradient(to left,blue, green);
+    color: yellow;
+    text-align: center;
+
+
+}
+h2{
+    background-color: white;
+}
+#imagem-turma{
+    
+    width:50%;
+
+}
